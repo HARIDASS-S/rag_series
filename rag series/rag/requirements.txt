@@ -1,0 +1,10 @@
+ollama
+chromadb
+pymupdf
+python-docx
+pandas
+openpyxl
+gradio
+fastapi
+uvicorn[standard]
+python-dotenv
